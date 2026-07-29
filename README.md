@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FinEdge - Personal Finance & Expense Tracker API
 
 ## Overview
@@ -248,3 +249,6 @@ Backend Developer | Node.js | Express.js | MongoDB
 # License
 
 This project is developed for learning and educational purposes.
+=======
+# finedge
+>>>>>>> 28fe522a2856452f86a9c72886d3f18189982d89
